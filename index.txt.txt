@@ -1,2 +1,3 @@
 this is my first software file 
 #starting to git
+updating to version 2
